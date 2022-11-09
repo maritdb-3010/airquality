@@ -1,4 +1,4 @@
-# Airquality around Amsterdam
+# Homework exercise 2 - Airquality around Amsterdam
 This files explains how the data retrieved from https://www.luchtmeetnet.nl/ is changed.
 
 ## Steps towards cleaned data
